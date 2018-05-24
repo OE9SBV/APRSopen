@@ -75,6 +75,9 @@ void setup() {
 
   display.display();
 
+
+  // Test OE9RSV
+
   // dra = DRA818::configure(Serial2, DRA818_VHF, 145.500, 145.500, 4, 8, 0, 0, DRA818_12K5, true, true, true, &Serial);
   // tmp = DRA818_VHF;
   // dra_serial = new HardwareSerial(2);
